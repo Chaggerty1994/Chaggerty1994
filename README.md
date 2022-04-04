@@ -13,4 +13,8 @@ I am currently looking for a position as an Entry-Level Software Developer. If y
 
 Balance is a time management application that helps its users organize their lives. Offering a user-friendly interface to keep track of personal and team oriented goals with customizable lists, and regiment their point of focus throughout the day with a pomodoro timer.
 
+## Balance Links
+  - [GitHub](https://github.com/Chaggerty1994/BalanceCapstone)
+  - [LiveSite](https://balance-capstone-tis8s.ondigitalocean.app/login)
+
 
