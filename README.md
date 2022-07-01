@@ -1,6 +1,6 @@
 # Christian Haggerty
 
-Audio Engineer turned software developer. I have been dedicated to the world of audio and event production for the last decade. As much as I love it, after years of the grind, mainly working nights and weekends. I felt the need to make a shift into a career that can stimulate my creative technical mind and provide more work / life balance. Im excited to adapt my creativity, intricate problem-solving, love of constantly evolving technology, teamwork, and clear communication into the world of software development.
+I am a software developer with a background in audio engineering, event production, and multi-media art / content creation. Throughout my professional career I have used creativity and technical experience to interpret  my clients vision and bring that vision to life. I am passionate about aesthetics and functional design and I have been extremely inspired by the opportunity to combine that passion with my love for technology and intricate problem solving with software development.
 
 I am currently looking for a position as an Entry-Level Software Developer. If you have openings, please reach out.
 
