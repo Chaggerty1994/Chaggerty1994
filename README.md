@@ -13,14 +13,14 @@ I am currently looking for a position as an Entry-Level Developer / UX Designer.
 
 Balance is a time management application that helps its users organize their lives. Offering a user-friendly interface to keep track of personal and team oriented goals with customizable lists, and regiment their point of focus throughout the day with a pomodoro timer.
 
-## Balance Links
+## Balance Repository
   - [GitHub](https://github.com/Chaggerty1994/BalanceCapstone)
   
 ## Blach Hoodies - Full Stack Capstone Project
 
 Black Hoodies is an online store for a concept youth fashion company. Designed to be minimilast, accessible, and display a very clear brand identity.
 
-## Balance Links
+## Black Hoodie Repository
   - [GitHub](https://github.com/Chaggerty1994/BlackHoodie-Client)
  
 
