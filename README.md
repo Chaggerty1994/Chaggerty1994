@@ -2,7 +2,7 @@
 
 I am a software developer with a background in audio engineering, event production, and multi-media art / content creation. Throughout my professional career I have used creativity and technical experience to interpret  my clients vision and bring that vision to life. I am passionate about aesthetics and functional design and I have been extremely inspired by the opportunity to combine that passion with my love for technology and intricate problem solving with software development.
 
-I am currently looking for a position as an Entry-Level Software Developer. If you have openings, please reach out.
+I am currently looking for a position as an Entry-Level Developer / UX Designer. If you have openings, please reach out.
 
 [Linkedin](https://www.linkedin.com/in/chaggerty1994/)
 
@@ -15,6 +15,13 @@ Balance is a time management application that helps its users organize their liv
 
 ## Balance Links
   - [GitHub](https://github.com/Chaggerty1994/BalanceCapstone)
-  - [LiveSite](https://balance-capstone-tis8s.ondigitalocean.app/login)
+  
+## Blach Hoodies - Full Stack Capstone Project
+
+Black Hoodies is an online store for a concept youth fashion company. Designed to be minimilast, accessible, and display a very clear brand identity.
+
+## Balance Links
+  - [GitHub](https://github.com/Chaggerty1994/BlackHoodie-Client)
+ 
 
 
