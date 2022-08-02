@@ -17,7 +17,7 @@ I am looking for my first professional role as a front end developer / UX Design
 
 # My Work Highlights
 
-## Blach Hoodies 
+## Black Hoodies 
 
 Black Hoodies is an online store for a concept youth fashion company. Designed to be minimilast, accessible, and display a very clear brand identity.
 
