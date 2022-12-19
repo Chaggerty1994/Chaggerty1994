@@ -4,7 +4,7 @@ Hello, My name is Christian Haggerty,
 
 My Career has been ripe with opportunities to solve complex technical problems, work with teams, and empathize with the users of my industry to create the best possible experience.
 
-I am currently seeking employment as Software Developer.
+
 
 
 
